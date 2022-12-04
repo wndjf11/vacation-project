@@ -27,5 +27,22 @@
     "eslint-plugin-vue": "^8.0.3",
     "prettier": "^2.4.1",
     "vue-template-compiler": "^2.6.14"
+  },
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto",
+        "bracketSameLine": true,
+        "singleQuote": false,
+        "semi": true,
+        "tabWidth": 2,
+        "trailingComma": "all",
+        "printWidth": 80,
+        "bracketSpacing": true,
+        "arrowParens": "always",
+        "useTabs": false
+      }
+    ]
   }
 }
