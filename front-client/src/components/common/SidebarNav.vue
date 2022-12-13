@@ -1,5 +1,9 @@
 <template>
-  <header>header</header>
+  <!-- footer box -->
+  <footer>
+    <div></div>
+    footer임
+  </footer>
 </template>
 
 <script>

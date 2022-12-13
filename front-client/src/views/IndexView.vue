@@ -1,5 +1,8 @@
 <template>
-  <div>중앙</div>
+  <body>
+    block
+    <div>바디안</div>
+  </body>
 </template>
 
 <script>
